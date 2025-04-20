@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zahir Khan
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Software Engineering at the Institute of Management Sciences, Peshawar<br/>
-🌷 #MaachineLearning<br/>
+🌷 #MachineLearning<br/>
 💭 Currently learning about data Science<br/>
 
 
